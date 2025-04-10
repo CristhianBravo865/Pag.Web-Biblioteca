@@ -44,24 +44,24 @@ Con claves primarias y foráneas correctamente diseñadas para mantener integrid
 ## 🖼️ Capturas de pantalla
 
 #### Página de inicio
-![Página de inicio]![image](https://github.com/user-attachments/assets/55f3a365-6184-4fcf-aa8e-afb2ebd0385b)
+![image](https://github.com/user-attachments/assets/55f3a365-6184-4fcf-aa8e-afb2ebd0385b)
 
 #### Buscador de libros
-![Buscador]![image](https://github.com/user-attachments/assets/e1490c0a-670a-4a6f-8b1f-de57c4d2da6e)
+![image](https://github.com/user-attachments/assets/e1490c0a-670a-4a6f-8b1f-de57c4d2da6e)
 
 #### Inicio de sesión y registro
-![Login]![image](https://github.com/user-attachments/assets/5b6bdf03-600a-425c-9d07-e05fc2641b5b)
+![image](https://github.com/user-attachments/assets/5b6bdf03-600a-425c-9d07-e05fc2641b5b)
 
-![Registro]![image](https://github.com/user-attachments/assets/2eb9caf5-b730-44c0-b412-dfc28043d30b)
+![image](https://github.com/user-attachments/assets/2eb9caf5-b730-44c0-b412-dfc28043d30b)
 
 #### Método de pago
-![Tarjeta]![image](https://github.com/user-attachments/assets/92d929f8-5142-4b62-8158-96f484876b44)
+![image](https://github.com/user-attachments/assets/92d929f8-5142-4b62-8158-96f484876b44)
 
 #### Carrito de compras
-![Carrito]![image](https://github.com/user-attachments/assets/db3755e5-2fa9-4761-956c-1cf250b1ad5a)
+![image](https://github.com/user-attachments/assets/db3755e5-2fa9-4761-956c-1cf250b1ad5a)
 
 #### Panel de administrador
-![Libros]![image](https://github.com/user-attachments/assets/9a84380a-9fa9-4b51-b9f9-8f1aea86f43a)
+![image](https://github.com/user-attachments/assets/9a84380a-9fa9-4b51-b9f9-8f1aea86f43a)
 
 
 
